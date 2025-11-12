@@ -25,7 +25,8 @@ SECRET_KEY = "django-insecure-wm3f(p2w7k39=x0d20cyyyinri=m7@4uh4zx4hd=z2c9cwduyo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'message-board-kyle.fly.dev']
+
 
 
 # Application definition
